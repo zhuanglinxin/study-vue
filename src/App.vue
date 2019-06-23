@@ -1,9 +1,8 @@
 <template>
   <div class="app-contraint">
       
-   
 <mt-header fixed title="固定在顶部"></mt-header>
-
+ 
 <h4>哈哈啊哈</h4>
 
 <nav class="mui-bar mui-bar-tab">
